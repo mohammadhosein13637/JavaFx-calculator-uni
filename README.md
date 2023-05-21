@@ -2,7 +2,7 @@
 
 This is a basic calculator application implemented in JavaFX that supports arithmetic operations and handles large numbers using the **BigInteger class**. It provides a user-friendly interface for performing calculations and displaying results.
 
-** a few Parts of this project have been helped by CHAT GBT.**
+**a few Parts of this project have been helped by CHAT GBT**
 
 **This Project is a HomeWork!**
 
