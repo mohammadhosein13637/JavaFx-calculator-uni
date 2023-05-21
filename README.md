@@ -42,6 +42,3 @@ Contributions to this calculator application are welcome. If you would like to c
 5. Commit your changes and push the branch to your forked repository.
 6. Submit a pull request, detailing your changes and the problem they solve.
 
-## License
-
-This project is licensed under the MIT License.
