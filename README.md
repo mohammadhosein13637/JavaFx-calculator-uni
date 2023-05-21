@@ -18,7 +18,7 @@ This is a basic calculator application implemented in JavaFX that supports arith
 
 To run the calculator application locally, follow these steps:
 
-1. Clone the repository: `git clone [<repository_url>](https://github.com/mohammadhosein13637/JavaFx-calculator-uni/)`
+1. Clone the repository: `git clone (https://github.com/mohammadhosein13637/JavaFx-calculator-uni/)`
 2. Open the project in an IDE of your choice that supports Java and JavaFX.
 3. Build and run the project.
 4. The calculator application window will appear, allowing you to perform calculations.
